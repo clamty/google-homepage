@@ -1,0 +1,38 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+    display: inline-block;
+    float: right;
+    padding-right: 15px;
+}
+
+.Logo {
+    display: block;
+    text-align: -webkit-center;
+    padding-top: 100px;
+}
+
+.form {
+    display: block;
+    text-align: -webkit-center;
+    padding-bottom: 200px;
+}
+
+.bottom {
+    padding-top: 18px;
+    padding-left: 20px;
+    text-align: -webkit-center;
+    display: block;
+}
+
+.Footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
